@@ -8,5 +8,5 @@ Install the modules with "pip install -r requirements.txt"
 Linux/MacOS : python main.py
 Windows : py / python ./main.py
 
-#Informations
+# Informations
 I use the api of https://scplist.kr/ for collecting the server list.
